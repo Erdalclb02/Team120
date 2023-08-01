@@ -21,8 +21,6 @@ public class C01_constructorCall {
 
     public static void main(String[] args) {
         C01_constructorCall obj =new C01_constructorCall();
-
-        System.out.println("Merhaba tekrardan github");
     }
 }
 
